@@ -1,3 +1,4 @@
+var version = '1.0';
 var host = 'http://vkstroll.dev';
 var TargetPanel = 'search';
 

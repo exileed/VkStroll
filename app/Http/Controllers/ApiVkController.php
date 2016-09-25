@@ -2,10 +2,9 @@
 
 namespace VkStroll\Http\Controllers;
 
-use Illuminate\Http\Request;
-
-use VkStroll\Http\Requests;
 use Lib\vkengine;
+use Illuminate\Http\Request;
+use VkStroll\Http\Requests;
 use VkStroll\Account;
 
 class ApiVkController extends Controller

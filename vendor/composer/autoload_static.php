@@ -63,6 +63,7 @@ class ComposerStaticInitba21188ea6eff3051c4481ade90fce21
         ),
         'L' => 
         array (
+            'Lib\\' => 4,
             'League\\Flysystem\\' => 17,
         ),
         'I' => 
@@ -186,6 +187,10 @@ class ComposerStaticInitba21188ea6eff3051c4481ade90fce21
         array (
             0 => __DIR__ . '/..' . '/monolog/monolog/src/Monolog',
         ),
+        'Lib\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/app/Lib',
+        ),
         'League\\Flysystem\\' => 
         array (
             0 => __DIR__ . '/..' . '/league/flysystem/src',
@@ -280,6 +285,7 @@ class ComposerStaticInitba21188ea6eff3051c4481ade90fce21
         'CreateTasksTable' => __DIR__ . '/../..' . '/database/migrations/2016_06_24_153745_create_tasks_table.php',
         'CreateTicketsMessagesTable' => __DIR__ . '/../..' . '/database/migrations/2016_06_29_130929_create_tickets_messages_table.php',
         'CreateTicketsTable' => __DIR__ . '/../..' . '/database/migrations/2016_06_29_130650_create_tickets_table.php',
+        'CreateUidsTable' => __DIR__ . '/../..' . '/database/migrations/2016_07_20_172321_create_uids_table.php',
         'CreateUsersTable' => __DIR__ . '/../..' . '/database/migrations/2016_05_22_141359_create_users_table.php',
         'DatabaseSeeder' => __DIR__ . '/../..' . '/database/seeds/DatabaseSeeder.php',
         'File_Iterator' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Iterator.php',

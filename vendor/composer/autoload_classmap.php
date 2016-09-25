@@ -12,6 +12,7 @@ return array(
     'CreateTasksTable' => $baseDir . '/database/migrations/2016_06_24_153745_create_tasks_table.php',
     'CreateTicketsMessagesTable' => $baseDir . '/database/migrations/2016_06_29_130929_create_tickets_messages_table.php',
     'CreateTicketsTable' => $baseDir . '/database/migrations/2016_06_29_130650_create_tickets_table.php',
+    'CreateUidsTable' => $baseDir . '/database/migrations/2016_07_20_172321_create_uids_table.php',
     'CreateUsersTable' => $baseDir . '/database/migrations/2016_05_22_141359_create_users_table.php',
     'DatabaseSeeder' => $baseDir . '/database/seeds/DatabaseSeeder.php',
     'File_Iterator' => $vendorDir . '/phpunit/php-file-iterator/src/Iterator.php',

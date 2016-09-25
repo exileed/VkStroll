@@ -1,5 +1,8 @@
 # Created by https://www.gitignore.io/api/laravel,phpstorm
 
+### Git ###
+.gitignore
+
 ### Laravel ###
 vendor/
 node_modules/

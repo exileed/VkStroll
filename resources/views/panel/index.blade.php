@@ -58,7 +58,7 @@
                             <input type="text" class="form-control" name="login" id="login" placeholder="Логин">
                         </div>
                         <div class="col-lg-4 form-group">
-                            <input type="email" class="form-control" name="password" id="password" placeholder="Пароль">
+                            <input type="password" class="form-control" name="password" id="password" placeholder="Пароль">
                         </div>
                         <div class="col-lg-4 form-group">
                             <select id="device" class="form-control">

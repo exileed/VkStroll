@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-//Route::get('/', 'ApiVkController@AuthVk');
+Route::get('/cron/auth', 'ApiVkController@AuthVk');
 
 Route::get('/page/register', function() {
     return view('auth/register');

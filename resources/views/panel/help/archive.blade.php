@@ -44,7 +44,7 @@
                             <td>
                                 <div class="content">
                                     <div class="title">
-                                        Как натянуть водный?
+                                        Как удалить вопрос из архива?
                                     </div>
                                     <div class="metas">
                                         <span class="started">1 день назад</span>
